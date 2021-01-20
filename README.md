@@ -1,4 +1,4 @@
-# Find Missing Image in Wordpress Uploads Directory
+# Fix incorrectly marked up directories in the Wordpress Media Library 
 
 This is a drop-in template to fix incorrect directories being listed for images when from migrating away from [Media Cloud
 ](https://github.com/Interfacelab/ilab-media-tools).
