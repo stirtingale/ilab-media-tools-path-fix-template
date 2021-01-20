@@ -29,9 +29,6 @@ PHP 7.0.
 * Create a page and assign it as a template. 
 * Open the page. The template will output text to tell you what it is doing. 
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Acknowledgments
 
