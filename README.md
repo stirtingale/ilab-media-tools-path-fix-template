@@ -3,7 +3,13 @@
 This is a drop-in template to fix incorrect directories being listed for images when from migrating away from [Media Cloud
 ](https://github.com/Interfacelab/ilab-media-tools).
 
-When deactivating the plugin I have found a handful of images will have incorrect directories assigned to them. For example; and image uploaded in Jan 2020, will be have /2015/01 instead of /2020/01. I don't know why this is. I just know it's a PITA when dealing with hundreds of images.
+When deactivating the plugin I have found a handful of images will have incorrect directories assigned to them. 
+
+For example; an image uploaded in Jan 2020, will be have /2015/01 instead of /2020/01. 
+
+I don't know why this is. 
+
+I just know it's a PITA when dealing with hundreds of images.
 
 
 ## Getting Started
